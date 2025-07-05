@@ -1,0 +1,28 @@
+Task-02: Data Cleaning & Exploratory Data Analysis (EDA)
+In this task, we performed data cleaning and exploratory data analysis on the Titanic dataset from Kaggle.
+
+✅ Data Cleaning:
+
+Checked for missing values in columns like Age, Cabin, and Embarked.
+
+Filled missing Age values with the median.
+
+Filled missing Embarked values with the most common port.
+
+Dropped the Cabin column due to too many missing values.
+
+✅ Exploratory Data Analysis (EDA):
+
+Explored survival rates across different passenger classes, genders, and ages.
+
+Created visualizations to understand relationships between features and survival, such as:
+
+Bar charts of survival rate by gender.
+
+Histograms of age distribution.
+
+Bar plots showing survival by passenger class.
+
+Identified patterns like higher survival rates for females and first-class passengers.
+
+This analysis helped reveal key trends and insights in the Titanic dataset.
